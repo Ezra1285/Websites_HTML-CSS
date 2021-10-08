@@ -1,0 +1,95 @@
+html, body
+{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container.topContainer
+{
+    margin: 0px 5px 10px 5px;    
+}
+.container.topContainer h1 
+{
+    text-align: center;    
+    margin: 0px 0px 0px 0px;
+    padding-bottom: 10px;
+}
+
+.container.topContainer .col img
+{
+    height: 35em;
+}
+
+.container.topContainer h2.picture-titles
+{
+    text-align: center;
+    margin: 0px;
+    padding-top: 10px;
+}
+p.picture-lables
+{
+    text-align: center;
+}
+
+
+.container.bannerContainer
+{
+    margin-bottom: 15px; 
+}
+.container.bannerContainer .banner-wrapper
+{
+    
+    padding: 0px;
+    margin: 0px;
+    height: 160px;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.container.bannerContainer .banner-text h1
+{
+    margin: 0px;
+    padding: 0px 0px 20px 0px;
+    font-size: 35px;
+    color: black;
+    text-align: left;
+}
+
+.container.bannerContainer .banner-icons img
+{
+    display: inline-block;
+    width: 7%;
+    margin: 0px 50px 0px 50px;
+    height: 5em;
+}
+
+.container.bannerContainer .banner-wrapper h4
+{
+    display: inline-block;
+    width: auto;
+    text-align: center;
+    padding: 0px 10px 0px 15px;
+    font-size: 15px;
+    margin: 0px;
+    color: black;  
+}
+
+h1.top_title
+{
+    background-image: url(../images/furley_bg.png);
+    background-size:cover;
+    background-position:center; 
+    position: relative;
+    top: 25px;
+}
+
+.top_page 
+{
+    background-image: url(../images/furley_bg.png);
+    background-size:cover;
+    background-position:center;     
+    height: 40px;
+}
+
